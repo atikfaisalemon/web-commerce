@@ -50,3 +50,32 @@
     border-radius: 10px;
     box-shadow: 5px 5px 10px lightgray;
 }
+.input-field{
+    height: 300px;
+    background-color: #feeae9;
+    margin-top: 100px;
+    border-radius: 10px;
+    
+}
+.input-padding{
+    
+    padding-left: 500px;
+    padding-top: 70px;
+    margin-top: 100px;
+}
+.input{
+    width: 290px;
+    height: 40px;
+    border-radius: 5px;
+}
+.text-color{
+    color: gray;
+    font-weight: 600;
+}
+#subscribe{
+    height: 300px;
+    margin-top: 100px;
+}
+#subscribe h6{
+    color: gray;
+}
